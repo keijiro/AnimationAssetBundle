@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1907036103
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d10300c3261c3a4e187e8b856ac67c23
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fb825d974c1d337c76c5166ef102c42b
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/Idle.controller
+Dependencies: []
